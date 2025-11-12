@@ -21,3 +21,26 @@ iii.	Continuous learning and adaptability: Fostering a mind-set of agility where
 As a leader, I will guide this transformation by applying emotional intelligence, data literacy development, and empowerment strategies to ensure both technical and human alignment.
 
 ## Section 3 - Connecting the Business Problem to a Data Mining Solution (Jingting)
+The problems that NY Bank is facing in its loan approval process can actually be solved quite effectively through data mining and artificial intelligence (AI) techniques. Basically, the approval process can be seen as a classification problem, where we want to predict whether an applicant should be approved or not based on past data. Using this kind of data-driven approach will help the bank make faster, fairer, and more accurate decisions. Instead of relying too much on human judgment, the system will use machine learning models to find patterns that people might easily miss.
+
+### 1. Data Preparation and Feature Selection
+
+Before building any predictive models, it’s really important to clean the data and make sure we are using the right features. The dataset would likely include things like income, credit score, age, employment stability, debt ratio, and repayment history. To handle these efficiently, we can use LASSO regression (L1 regularization) to automatically select the most important variables and remove the ones that don’t really help the model. This helps keep the model simple and prevents overfitting.
+
+Also, checking for multicollinearity is necessary. Sometimes, different variables are too closely related to each other, which can cause instability in the model. To deal with that, the Variance Inflation Factor (VIF) can be used to detect and fix those issues. These two steps—LASSO and VIF—make the data more reliable and the model more interpretable, which is especially important for a bank because of the transparency and compliance requirements.
+
+### 2. Predictive Modeling and AI Techniques
+
+Once the data is clean and the features are selected, we can apply several machine learning algorithms. Logistic Regression can be the first step since it’s easy to interpret and gives probability-based scores. This makes it useful for explaining why a loan is approved or not, which is critical for financial reporting.
+
+Then, we can use more advanced models like Random Forest and XGBoost to improve accuracy. These models can handle complex relationships between variables and capture non-linear patterns that simple models can’t. Random Forest is great because it’s stable and less likely to overfit, while XGBoost can make predictions very precisely by learning from mistakes in each round. Together, they can create a strong predictive system that improves both speed and accuracy in loan approvals.
+
+### 3.Automation with NLP and OCR
+
+To make the process even more efficient, Natural Language Processing (NLP) and Optical Character Recognition (OCR) can be added to automate how data is collected. For example, the system can read pay slips, ID cards, or tax reports and automatically extract the information needed for analysis. This reduces manual work and also lowers the chance of human error. It also means that customers can get their loan decisions faster because the verification part becomes automated.
+
+### 4. Leadership and Ethical Considerations
+
+From a leadership point of view, implementing AI is not just about technology—it’s also about people and trust. As the analytics lead, I will make sure the models are fair and transparent, especially since financial decisions directly affect people’s lives. Regular model audits, fairness checks, and bias detection are necessary to keep the process ethical.
+
+I also believe in building a continuous learning culture where team members are encouraged to explore data, ask questions, and update models as new information comes in. AI should not replace people, but support them in making better decisions. With this approach, NY Bank can truly become a data-driven organization, where analytics doesn’t just make processes faster, but also helps the bank earn long-term trust from its customers.
