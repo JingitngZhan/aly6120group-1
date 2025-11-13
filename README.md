@@ -43,4 +43,8 @@ To make the process even more efficient, Natural Language Processing (NLP) and O
 
 From a leadership point of view, implementing AI is not just about technology—it’s also about people and trust. As the analytics lead, I will make sure the models are fair and transparent, especially since financial decisions directly affect people’s lives. Regular model audits, fairness checks, and bias detection are necessary to keep the process ethical.
 
+## References
+Bokrantz, J., Subramaniyan, M., & Skoogh, A. (2024). Realising the promises of artificial intelligence in manufacturing by enhancing CRISP-DM. Production Planning & Control, 35(16), 2234–2254. https://doi.org/10.1080/09537287.2023.2234882
+Northouse, P. G. (2022). Leadership: Theory and Practice (9th ed.). Sage Publications.
+
 I also believe in building a continuous learning culture where team members are encouraged to explore data, ask questions, and update models as new information comes in. AI should not replace people, but support them in making better decisions. With this approach, NY Bank can truly become a data-driven organization, where analytics doesn’t just make processes faster, but also helps the bank earn long-term trust from its customers.
