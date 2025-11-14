@@ -1,11 +1,11 @@
 # aly6120group-1
 # Our Group Project
 # Business Understanding: AI-Driven Loan Approval Optimization at NY Bank
-## Section 1 - Overview of the Business Problem (Samuel)
+## Section 1 - Overview of the Business Problem 
 NY Bank is experiencing operational inefficiencies in its loan approval process, resulting in delayed turnaround times, inconsistent decisions, and low customer satisfaction. These inefficiencies stem from manual documentation checks, disjointed digital systems, and a lack of data-driven insight into workflow bottlenecks. The growing competition in digital banking adds pressure to improve decision speed without compromising risk assessment accuracy. To remain competitive and retain customer trust, NY Bank must transition from reactive decision-making to a proactive, analytics-driven model.
 As a transformational leader, I aim to create a culture where data analytics drives decisions and empowers employees to innovate. The goal is to use analytics not only as a technical solution but as a strategic enabler of business improvement, aligning process efficiency with customer-centric outcomes.
 
-## Section 2 - Business Objectives and Leadership Requirements (Jonas) 
+## Section 2 - Business Objectives and Leadership Requirements 
 Business Objectives
 From a business perspective, this analytics initiative will aim to:
 i.	Reduce loan approval time by at least 40% through automation and workflow optimization.
@@ -20,7 +20,7 @@ ii.	Ethical and transparent analytics culture: Building trust in AI-driven decis
 iii.	Continuous learning and adaptability: Fostering a mind-set of agility where teams view analytics as a dynamic process that evolves with feedback and performance data.
 As a leader, I will guide this transformation by applying emotional intelligence, data literacy development, and empowerment strategies to ensure both technical and human alignment.
 
-## Section 3 - Connecting the Business Problem to a Data Mining Solution (Jingting)
+## Section 3 - Connecting the Business Problem to a Data Mining Solution 
 The problems that NY Bank is facing in its loan approval process can actually be solved quite effectively through data mining and artificial intelligence (AI) techniques. Basically, the approval process can be seen as a classification problem, where we want to predict whether an applicant should be approved or not based on past data. Using this kind of data-driven approach will help the bank make faster, fairer, and more accurate decisions. Instead of relying too much on human judgment, the system will use machine learning models to find patterns that people might easily miss.
 
 ### 1. Data Preparation and Feature Selection
