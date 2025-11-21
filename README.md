@@ -8,7 +8,7 @@ As a transformational leader, I aim to create a culture where data analytics dri
 ## Section 2 - Business Objectives and Leadership Requirements 
 Business Objectives
 From a business perspective, this analytics initiative will aim to:
-i.	Reduce loan approval time by at least 40% through automation and workflow optimization.
+i.	Reduce loan approval time by at least through automation and workflow optimization.
 ii.	Improve decision consistency and fairness by introducing data-driven risk scoring models.
 iii.	Enhance customer satisfaction by delivering faster, transparent, and equitable loan decisions.
 These objectives directly support NY Bank’s strategic goals of operational excellence, digital transformation, and long-term client retention
