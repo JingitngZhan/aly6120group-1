@@ -8,10 +8,13 @@ As a transformational leader, I aim to create a culture where data analytics dri
 
 # About the Campony
 
-![loan approval](loan_apr.png)
+NY Bank is a regional commercial bank with a strong focus on retail loans, personal credit, and SME financing. Its loan approval process evaluates multiple risk-related factors such as credit score, applicant income, employment status, loan term, loan amount, and asset value. The bank seeks to modernize and optimize this process through predictive analytics and workflow redesign.
 
-# Data Sounce
+# Data Source
 
-# Licence
+The dataset used in this project comes from Kaggle, published under the MIT Open Source License, making it freely available for analysis and model development.
+The dataset—loan_approval_dataset.csv—contains essential financial and demographic variables commonly used to predict loan approval outcomes. It is widely utilized for machine learning tasks such as classification modeling, risk scoring, and operational workflow simulations. \\
 
-(This is a rough sketch!)
+ Dataset uploaded:
+/mnt/data/loan_approval_dataset.csv
+(Source: Kaggle, MIT License)
