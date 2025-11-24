@@ -18,3 +18,7 @@ The dataset—loan_approval_dataset.csv—contains essential financial and demog
  Dataset uploaded:
 /mnt/data/loan_approval_dataset.csv
 (Source: Kaggle, MIT License)
+
+# Team Collaboration
+To ensure responsible use of this external dataset, collaboration would be required with multiple team members. Data engineers validate the structure, schema, and formatting of the CSV file. Business analysts interpret each variable to align it with real-world financial concepts and avoid misapplication. Data stewards help validate whether field definitions match typical industry standards (e.g., credit score ranges, DTI ratios). Even when using open-source data, cross-functional collaboration is essential to ensure contextual accuracy before modeling.
+
