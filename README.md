@@ -22,3 +22,13 @@ The dataset—loan_approval_dataset.csv—contains essential financial and demog
 # Team Collaboration
 To ensure responsible use of this external dataset, collaboration would be required with multiple team members. Data engineers validate the structure, schema, and formatting of the CSV file. Business analysts interpret each variable to align it with real-world financial concepts and avoid misapplication. Data stewards help validate whether field definitions match typical industry standards (e.g., credit score ranges, DTI ratios). Even when using open-source data, cross-functional collaboration is essential to ensure contextual accuracy before modeling.
 
+# **Data Preparation and Quality Issues**
+The Kaggle dataset contains several quality challenges typical of open-source financial data. Missing values appear in credit scores, income, and loan purpose fields, requiring investigation to determine if they result from incomplete reporting or synthetic generation. Incorrect or unrealistic data points such as extremely high income values or negative loan amounts must be flagged and treated carefully. Outliers are expected, especially in financial datasets, and require domain-aware decisions about whether they represent legitimate rare events or noise.
+Data preparation steps will include:
+•	Standardizing categorical fields (e.g., employment status)
+•	Normalizing continuous variables where necessary
+•	Inspecting missing value mechanisms and selecting imputation methods
+•	Removing or correcting obvious errors
+•	Creating engineered features such as debt-to-income ratio or processing time
+Throughout this process, a version-controlled data dictionary will be maintained to ensure transparency and traceability into modeling.
+
