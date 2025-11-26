@@ -31,4 +31,13 @@ Data preparation steps will include:
 •	Removing or correcting obvious errors
 •	Creating engineered features such as debt-to-income ratio or processing time
 Throughout this process, a version-controlled data dictionary will be maintained to ensure transparency and traceability into modeling.
-
+# Models we employed and why?
+To discover meaningful patterns in the NY Bank loan approval dataset, Exploratory, Predictive and Operational Efficiency Models models would be employed to contribute differently to understanding the data, improving decision quality, and optimizing operational efficiency.
+. Exploratory Pattern-Discovery Models
+Unsupervised models align with Provost & Fawcett’s (2013) emphasis on understanding data structure before prediction. K-means and PCA reveal borrower segments and underlying financial drivers, supporting Collier’s (2012) value-driven analytics approach. Saporito (2015) highlights operational insight, and these techniques help detect anomalies, fraud signals, and risk patterns essential for policy redesign and fair lending decisions
+. Predictive Modelling for Loan Approval Decisions
+These predictive models reflect Provost & Fawcett’s (2013) guidance that analytics must directly support decision quality. Logistic regression provides transparent, regulator-friendly insights, while random forests capture nonlinear relationships and reduce overfitting, aligning with Collier’s (2012) value-driven modeling approach. Gradient boosting delivers high accuracy on financial data, consistent with Saporito’s (2015) emphasis on models that enhance operational performance. Together, they support NY Bank’s goal of fast, fair, data-driven approval
+. Operational Efficiency Models
+The use of process mining and queuing models aligns closely with the analytical frameworks emphasized in Collier (2012), Provost & Fawcett (2013), and Saporito (2015). Process mining and queuing models directly reflect the guidance of Collier (2012), Provost & Fawcett (2013), and Saporito (2015). These authors emphasize understanding real workflows before modeling outcomes. Process mining uncovers operational inefficiencies, while queuing theory predicts performance under varying conditions. Together, they strengthen decision-making, improve service speed, and support NY Bank’s evidence-based process transformation
+. Why These Models Are Optimal?
+This model combination is optimal because it aligns analytics directly with operational decision-making. Provost & Fawcett (2013) emphasize selecting models that improve real decisions, while Collier (2012) advocates iterative, value-driven development. Saporito (2015) reinforces using models that enhance both accuracy and operational performance. Together, these approaches deepen insight, streamline workflows, and strengthen NY Bank’s data-driven transformation.
