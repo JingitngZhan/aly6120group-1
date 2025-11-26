@@ -41,3 +41,11 @@ These predictive models reflect Provost & Fawcett’s (2013) guidance that analy
 The use of process mining and queuing models aligns closely with the analytical frameworks emphasized in Collier (2012), Provost & Fawcett (2013), and Saporito (2015). Process mining and queuing models directly reflect the guidance of Collier (2012), Provost & Fawcett (2013), and Saporito (2015). These authors emphasize understanding real workflows before modeling outcomes. Process mining uncovers operational inefficiencies, while queuing theory predicts performance under varying conditions. Together, they strengthen decision-making, improve service speed, and support NY Bank’s evidence-based process transformation
 . Why These Models Are Optimal?
 This model combination is optimal because it aligns analytics directly with operational decision-making. Provost & Fawcett (2013) emphasize selecting models that improve real decisions, while Collier (2012) advocates iterative, value-driven development. Saporito (2015) reinforces using models that enhance both accuracy and operational performance. Together, these approaches deepen insight, streamline workflows, and strengthen NY Bank’s data-driven transformation.
+# References
+Collier, K. (2012). Agile analytics: A value-driven approach to business intelligence and data warehousing. Pearson Education.
+
+Provost, F., & Fawcett, T. (2013). Data science for business: What you need to know about data mining and data-analytic thinking. O’Reilly Media.
+
+Saporito, P. (2015). Applied insurance analytics: A framework for driving more value from data assets, technologies, and tools. Pearson FT Press.
+
+Kaggle. (n.d.). Loan Approval Dataset [Data set]. MIT License. https://www.kaggle.com
