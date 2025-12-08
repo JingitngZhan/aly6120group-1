@@ -26,6 +26,24 @@ The visualizations comparing education levels and employment status also reveal 
 Asset values—such as residential, commercial, and bank assets—also show strong positive associations with approval outcomes. Even after adjusting for outliers, applicants with higher asset levels are more likely to get approved, which is consistent with how lenders evaluate collateral strength.
 Finally, the feature importance rankings and ROC curves suggest that the models are not only capturing individual predictors but also their interactions—such as applicants with high loan amounts but low CIBIL scores, or low incomes paired with short loan terms. These interaction patterns help highlight riskier subgroups and can guide more precise decision-making.
 
+References,
+
+Collier, K. W. (2012). Agile analytics: A value-driven approach to business intelligence and data warehousing. Pearson Education.
+
+Provost, F., & Fawcett, T. (2013). Data science for business: What you need to know about data mining and data-analytic thinking. O’Reilly Media.
+
+Saporito, P. (2015). Applied insurance analytics: A framework for driving more value from data assets, technologies, and tools. FT Press.
+
+Wirth, R., & Hipp, J. (2000). CRISP-DM: Towards a standard process model for data mining. ACM SIGKDD Explorations Newsletter, 2(1), 29–39.
+
+Breiman, L. (2001). Random forests. Machine Learning, 45(1), 5–32.
+
+Hosmer, D. W., Lemeshow, S., & Sturdivant, R. X. (2013). Applied logistic regression (3rd ed.). Wiley.
+
+Kaggle (MIT Loan Dataset). Retrieved from https://www.kaggle.com
+
+(For referencing the source of the dataset used.)
+
 
 
 
